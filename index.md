@@ -1,8 +1,3 @@
-layout: page
-title: "Beautiful Mind Ki"
-
-# Beautiful Mind Kids
-
 At Beautiful Mind Kids, our mission is to empower children with ADHD and other neuro-diversities to flourish, while providing unwavering support to their families. We are dedicated to creating a nurturing and inclusive environment that fosters understanding, compassion, and growth.
 We are committed to:
 
