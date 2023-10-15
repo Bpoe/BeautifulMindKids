@@ -4,3 +4,5 @@ plugins:
 
 title: Beautiful Mind Kids
 show_downloads: false
+
+site.github.is_project_page: false
